@@ -18,8 +18,6 @@ https://learn.microsoft.com/api/achievements/share/en-us/halant-5880/FZ3B5UPX?sh
 
 ## Reflections
 
-[Add your personal reflections on what you learned in each module and how it contributes to your development skills]
-
 01 - We learned that TypeScript is an open-source language and it's a superset of JavaScript.
 The core feature of TypeScript is its type system. To transform TypeScript code into JavaScript,  
 we need to install TypeScript compiler, which is called tsc.
